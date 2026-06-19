@@ -18,7 +18,7 @@ class Debansha:
     def __init__(self):
         self.degree   = "B.Tech CSE @ VIT Vellore (2024–2028) · "
         self.location = "Agartala, Tripura"
-        self.focus    = ["Daata Structures and Algorithms, "Full-Stack Dev"]
+        self.focus    = ["Data Structures and Algorithms, "Full-Stack Dev"]
         self.status   = "shipping small things, breaking bigger ones"
 
     def currently_learning(self):
@@ -45,7 +45,7 @@ class Debansha:
 **Core CS**
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2d2a3a?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-2d2a3a?style=for-the-badge)
+![OOPS](https://img.shields.io/badge/OOP-2d2a3a?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-2d2a3a?style=for-the-badge)
 ![OS](https://img.shields.io/badge/Operating%20Systems-2d2a3a?style=for-the-badge)
 ![Networks](https://img.shields.io/badge/Computer%20Networks-2d2a3a?style=for-the-badge)
