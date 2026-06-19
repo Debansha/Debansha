@@ -4,7 +4,8 @@
 
 <br>
 
-**Curious by Default **
+*Curious by Default*
+
 
 **Connect with me**
 
