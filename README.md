@@ -4,7 +4,7 @@
 
 <br>
 
-**Curious by Default · Stubborn by Necessity**
+**Curious by Default **
 
 **Connect with me**
 
