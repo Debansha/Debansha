@@ -1,12 +1,10 @@
 <div align="center">
-<img src="banner.svg" alt="banner" width="100%" />
+<img src="assets/banner.png" alt="banner" width="100%" />
 </div>
 
 <br>
 
 **Curious by Default · Stubborn by Necessity**
-
-*Three years into a CS degree, still figuring out what kind of engineer I want to be.*
 
 **Connect with me**
 
