@@ -42,13 +42,16 @@ class Debansha:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+
+
 **Core CS**
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-2d2a3a?style=for-the-badge)
-![OOPS](https://img.shields.io/badge/OOP-2d2a3a?style=for-the-badge)
+![OOPS](https://img.shields.io/badge/OOPS-2d2a3a?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-2d2a3a?style=for-the-badge)
 ![OS](https://img.shields.io/badge/Operating%20Systems-2d2a3a?style=for-the-badge)
 ![Networks](https://img.shields.io/badge/Computer%20Networks-2d2a3a?style=for-the-badge)
+
 
 **Tools**
 
