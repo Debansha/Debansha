@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.png" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Debansha&fontSize=70&fontAlignY=35&fontColor=ffffff" alt="banner" width="100%" />
 </div>
 
 <br>
