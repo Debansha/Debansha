@@ -19,13 +19,7 @@
 ```python
 class Debansha:
     def __init__(self):
-        self.degree   = "B.Tech CSE @ VIT Vellore (2024–2028) · "
-        self.location = "Agartala, Tripura"
-        self.focus    = ["Data Structures and Algorithms, "Full-Stack Dev"]
-        self.status   = "shipping small things, breaking bigger ones"
-
-    def currently_learning(self):
-        return "full-stack web development"
+self.status = "built from failures, driven by purpose"
 ```
 ### Tech Stack
 
